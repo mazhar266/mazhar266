@@ -7,6 +7,9 @@
 - 📫 How to reach me: mazhar266@gmail.com
 - 😄 Pronouns: Mazhar Ahmed
 - ⚡ Fun fact: I like childish stuffs
+- Zend Certified Engineer on PHP
+- EC-Counsil Certified CISO (on going)
+- AWS Certified Solution Architect Professional (on going)
 
 ### Actively Working
 <img src="https://img.shields.io/badge/%20-Shell%20Script-black?logo=shell&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Python-black?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-PHP-black?logo=php&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Java-black?logo=java&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-Ruby-black?logo=ruby&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20-C-black?logo=c&style=for-the-badge"/> <img src="https://img.shields.io/badge/%20G-Go-black?logo=go&style=for-the-badge"/>
