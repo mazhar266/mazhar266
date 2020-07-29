@@ -25,8 +25,5 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: copy to another git
       run: |
-        mkdir ~/.ssh
-        echo $ID_ALT > ~/.ssh/id_rsa
-        echo $ID_ALT_PUB > ~/.ssh/id_rsa.pub
-        git remote add iammaze git@github.com:iammaze/iammaze.git,
+        git remote add iammaze https://$GUSER:$GPASSWORD@github.com/iammaze/iammaze.git,
         git push iammaze --all -f.
