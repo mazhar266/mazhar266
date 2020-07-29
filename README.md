@@ -36,6 +36,6 @@
     <td><img src="https://rubyonrails.org/images/rails-logo.svg" height="50" alt="Rails" /></td>
     <td><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" height="50" alt="Spring Framework" /></td>
     <td><img src="http://sparkjava.com/img/logo.svg" height="50" alt="Spark Java" /></td>
-    <td><img src="https://img.icons8.com/ios-filled/100/000000/laravel.png" height="50" alt="Laravel" /></td>
+    <td><img src="https://laravel.com/img/logotype.min.svg" height="50" alt="Laravel" /></td>
   </tr>
 </table>
