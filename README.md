@@ -18,5 +18,6 @@
     <td><img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" height="50" alt="Java" /></td>
     <td><img src="https://img.icons8.com/color/96/000000/javascript.png" height="50" alt="Javascript" /></td>
     <td><img src="https://img.icons8.com/officel/80/000000/php-logo.png" height="50" alt="PHP" /></td>
+    <td><img src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png" height="50" alt="C#" /></td>
   </tr>
 </table>
