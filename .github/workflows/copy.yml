@@ -24,7 +24,7 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: copy to another git
-      uses: cpina/github-action-push-to-another-repository@master
+      uses: mazhar266/github-action-push-to-another-repository@master
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
