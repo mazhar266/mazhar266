@@ -28,3 +28,14 @@
     <td><img src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png" height="50" alt="C#" /></td>
   </tr>
 </table>
+
+### Frameworks
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/96/000000/django.png" height="50" alt="Django" /></td>
+    <td><img src="https://rubyonrails.org/images/rails-logo.svg" height="50" alt="Rails" /></td>
+    <td><img src="https://img.icons8.com/color/96/000000/spring-logo.png" height="50" alt="Spring Framework" /></td>
+    <td><img src="http://sparkjava.com/img/logo.svg" height="50" alt="Spark Java" /></td>
+    <td><img src="https://img.icons8.com/ios-filled/100/000000/laravel.png" height="50" alt="Laravel" /></td>
+  </tr>
+</table>
