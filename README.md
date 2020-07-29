@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I like childish stuffs
 
 ### Actively Working
-<img src="https://img.shields.io/badge/%20-Python-black?logo=python"/> <img src="https://img.shields.io/badge/%20-PHP-black?logo=php"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=js"/> <img src="https://img.shields.io/badge/%20-Java-black?logo=java"/> <img src="https://img.shields.io/badge/%20-Ruby-black?logo=ruby"/> <img src="https://img.shields.io/badge/%20-C%20Lang-black?logo=c"/> <img src="https://img.shields.io/badge/%20G-Go-black?logo=go"/>
+<img src="https://img.shields.io/badge/%20-Python-black?logo=python"/> <img src="https://img.shields.io/badge/%20-PHP-black?logo=php"/> <img src="https://img.shields.io/badge/%20-Javascript-black?logo=javascript"/> <img src="https://img.shields.io/badge/%20-Java-black?logo=java"/> <img src="https://img.shields.io/badge/%20-Ruby-black?logo=ruby"/> <img src="https://img.shields.io/badge/%20-C%20Lang-black?logo=c"/> <img src="https://img.shields.io/badge/%20G-Go-black?logo=go"/>
 
 ### Has Experience
 <table>
