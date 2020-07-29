@@ -24,6 +24,9 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: copy to another git
+      env:
+        GUSER: ${{ secrets.GUSER }}
+        GPASSWORD: ${{ secrets.GPASSWORD }}
       run: |
         git remote add iammaze https://$GUSER:$GPASSWORD@github.com/iammaze/iammaze.git
         git push iammaze --all -f
