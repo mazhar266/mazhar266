@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Pounce Technology Oy as Senior Software Engineer
+- 🔭 I’m currently working in atB Lab as CTO
 - 🌱 I’m currently learning High Scalable Architectures
 - 🤔 I’m looking for help with Software Architectures
 - 💬 Ask me about business ideas and technical architectures
