@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in atB Lab as CTO
+- 🔭 I’m currently working in atB Lab Limited as CTO
 - 🌱 I’m currently learning High Scalable Architectures
 - 🤔 I’m looking for help with Software Architectures
 - 💬 Ask me about business ideas and technical architectures
-- 📫 How to reach me: mazhar266@gmail.com
+- 📫 How to reach me: mazhar.ahmed@atb-lab.jp
 - 😄 Pronouns: Mazhar Ahmed
 - ⚡ Fun fact: I like childish stuffs
 - Zend Certified Engineer on PHP
